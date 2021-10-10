@@ -10,7 +10,7 @@ print(f'O maior valor que você digitou foi {(maximo)} nas posições ', end='')
 for c, v in enumerate(valores):
     if v == maximo:
         print(f'{c}...', end='')
-print(f'O menor valor que você digitou foi {(minimo)} nas posições ', end='')
+print(f'\nO menor valor que você digitou foi {(minimo)} nas posições ', end='')
 for c, v in enumerate(valores):
     if v == minimo:
         print(f'{c}...', end='')
