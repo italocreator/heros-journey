@@ -1,4 +1,5 @@
 # grafico de notas
+import tkinter
 import matplotlib.pyplot
 from random import randrange
 import matplotlib.pyplot as plt
