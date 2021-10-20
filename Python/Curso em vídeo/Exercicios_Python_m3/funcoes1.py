@@ -16,5 +16,3 @@
 
 # escreva('teste')
 # escreva('print usando função')
-
-
