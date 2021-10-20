@@ -7,14 +7,13 @@
 # comprimento = float(input('Comprimento (m): '))
 # area(largura, comprimento)
 
-# def escreva(msg):
-#     tam = len(msg) + 4
-#     print('~' * tam)
-#     print(f'  {msg}')
-#     print('~' * tam)
+
+# print com uma função
+def escreva(msg):
+    tam = len(msg) + 8
+    print('~' * tam)
+    print(f'    {msg}')
+    print('~' * tam)
 
 
-# escreva('teste')
-# escreva('print usando função')
-
-
+escreva('Olá Mundo!')
