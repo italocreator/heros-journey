@@ -1,13 +1,10 @@
-# carrot = int(input('Digite quantos anos tem o seu carro: '))
-# if carrot >= 5:
+# car_age = int(input('Digite quantos anos tem o seu carro: '))
+# if car_age >= 5:
 #     print('Seu carro está velho')
 # else:
 #     print('Seu carro é semi-novo')
 
-#outra forma
-# tempoc = int(input('Digite quantos anos tem seu carro: '))
-# print('Seu carro é semi-novo'if tempoc<=3 else'Seu carro está velho')
-
+# while executa o input até que a condição seja concluida
 nota1 = float(input('Digite sua primeira nota: '))
 while nota1 > 10:
     nota1 = float(input('Você digitou uma nota invalida, digite novamente: '))

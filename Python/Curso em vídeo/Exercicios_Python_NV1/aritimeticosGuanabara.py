@@ -17,4 +17,4 @@
 #9**(1/3)
 
 #formas de editar o print
-#print("resultado {:=^20}".format(varivavel)) {20} usa 20 caracteres na impressao 
+#print("resultado {:=^20}".format(varivavel)) usa 20 caracteres na impressao 
