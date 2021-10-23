@@ -20,4 +20,3 @@
 #     'Centena: {}\n'.format(c),
 #     'Milhar: {}\n'.format(m)
 # )
-

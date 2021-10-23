@@ -1,4 +1,5 @@
 # valor = int(input('Digite um numero: '))
+# print formatado
 # print("O numero que você digitou é: {} o seu antecessor é: {} e o sucessor: {}".format((valor), (valor-1), (valor+1), end=''))
 
 #Dobro, triplo, raiz

@@ -22,9 +22,16 @@ ang = float(input('Digite o angulo que você deseja: '))
 sen = math.sin(math.radians(ang))
 cos = math.cos(math.radians(ang))
 tang = math.tan(math.radians(ang))
-print(
-    'O angulo digitado foi: {:.2f}'.format(ang),
-    ' \nO seno correspondente a esse angulo é {:.2f}'.format(sen),
-    ' \nO cosseno correspondente a esse angulo é {:.2f}'.format(cos),
-    ' \nE a tangente: {:.2f}'.format(tang)
-)
+# print(
+#     'O angulo digitado foi: {:.2f}'.format(ang),
+#     ' \nO seno correspondente a esse angulo é {:.2f}'.format(sen),
+#     ' \nO cosseno correspondente a esse angulo é {:.2f}'.format(cos),
+#     ' \nE a tangente: {:.2f}'.format(tang)
+# )
+# # novo formato de formatação
+# print(
+#     f'O angulo digitado foi: {ang:.2f}',
+#     f' \nO seno correspondente a esse angulo: {sen:.2f}',
+#     f' \nO cosseno correspondente a esse angulo: {cos:.2f}',
+#     f' \nE a tangente: {tang:.2f}'
+# )
