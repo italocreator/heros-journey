@@ -1,3 +1,4 @@
+# cadastro lista, maior e menor idade
 pessoas = []
 galera = []
 contadormaior = contadormenor = 0

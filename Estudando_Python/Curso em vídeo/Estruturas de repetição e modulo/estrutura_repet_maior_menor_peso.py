@@ -1,3 +1,4 @@
+# maior e menor peso
 maior = 0
 menor = 0
 for i in range(1, 6):
@@ -11,4 +12,3 @@ for i in range(1, 6):
         if peso < menor:
             menor = peso
 print('O maior peso lido: {}KG. E o menor peso lido: {}KG.'.format(maior, menor))
-

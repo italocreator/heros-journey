@@ -1,3 +1,4 @@
+# quantos maior de idade e quantos menor de idade?
 from datetime import date
 atual = date.today().year
 maior = 0
@@ -12,5 +13,7 @@ for pessoas in range(1, 8):
     else:
         menor += 1
         # print('Ainda não atingiu a maior idade!')
-print('Ao todo tivemos \033[1;92m{}\033[m pessoas maior de idade.'.format(maior))
-print('E também tivemos \033[1;92m{}\033[m pessoas menor de idade'.format(menor))
+print(
+    'Ao todo tivemos \033[1;92m{}\033[m pessoas maior de idade.'.format(maior))
+print(
+    'E também tivemos \033[1;92m{}\033[m pessoas menor de idade'.format(menor))

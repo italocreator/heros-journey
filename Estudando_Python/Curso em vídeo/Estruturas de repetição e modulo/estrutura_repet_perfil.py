@@ -1,3 +1,4 @@
+# nome, idade, sexo, analise do grupo
 somaidade = 0
 mediaidade = 0
 maioridadehomem = 0

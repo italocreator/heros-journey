@@ -1,3 +1,4 @@
+# cadastro nome, sexo, idade, analise do grupo cadastrado
 galera = list()
 pessoa = dict()
 soma = media = 0
@@ -23,7 +24,7 @@ print('-=' * 30)
 print(f'Ao todos temos {len(galera)} pessoas cadastradas.')
 media = soma / len(galera)
 print(f'A média de idade é de {media:5.2f} anos.')
-print('As mulheres cadastradas foram', end='')
+print('As mulheres cadastradas foram ', end='')
 for p in galera:
     if p['sexo'] in 'Ff':
         print(f'{p["nome"]} ', end='')

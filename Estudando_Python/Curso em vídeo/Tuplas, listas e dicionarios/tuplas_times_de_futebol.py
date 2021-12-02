@@ -1,3 +1,4 @@
+# manipulando tuplas
 times = ('Palmeiras', 'Flamengo', 'Internacional', 'Grêmio', 'São Paulo', 'Atlético-MG',
          'Atletico-PR', 'Cruzeiro', 'Botafogo', 'Santos', 'Bahia', 'Fluminense', 'Corinthians', 'Chapecoense', 'Ceará',
          'Vasco', 'Sport', 'América-MG', 'Vitória', 'Paraná'

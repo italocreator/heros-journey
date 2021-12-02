@@ -1,3 +1,4 @@
+# manipulando tuplas
 lista_escolar = ('lapis', 1.75,
                  'borracha', 2,
                  'estojo', 15.90,

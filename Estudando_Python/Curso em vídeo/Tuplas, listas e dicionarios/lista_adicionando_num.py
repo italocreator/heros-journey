@@ -1,3 +1,4 @@
+#adcionando numeros, verificando duplicados
 numeros = []
 while True:
     n = int(input('Digite um valor: '))
